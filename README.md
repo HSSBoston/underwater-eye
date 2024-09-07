@@ -9,9 +9,9 @@ Underwater Eye is built with a Raspberry Pi, TT motor, motor driver, camera and 
 This project was submitted to and presented at [AnimalHack 2024](https://animalhack.org/ah24/). 
 
 <p align="center">
-  <img src="images/hw-assembly.jpg" width="400">
-  <img src="images/camera.jpg" width="400">
+  <img src="images/hw-assembly.jpg" width="400"><br>
 </p>
+
 
 ## Demo
 
