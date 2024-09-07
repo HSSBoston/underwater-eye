@@ -31,8 +31,5 @@ if __name__ == "__main__":
         else:
             print("USAGE: python3 camera-up-down.py up <motor speed [0.0-1.0]> <duration (sec)>")
             print("USAGE: python3 camera-up-down.py down <motor speed [0.0-1.0]> <duration (sec)>")
-            
-            
-
-
+    motor.disable()
 
