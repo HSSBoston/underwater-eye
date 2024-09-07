@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" width="700">
+  <img src="images/logo.jpg" width="700">
 </p>
 
 This project delivers a hack to make skateboarding more fun and safer. It turns a skateboard to be an Internet-of-Things (IoT) device with a Raspberry Pi and its peripheral components.
