@@ -10,7 +10,9 @@ This project was submitted to and presented at [AnimalHack 2024](https://animalh
 
 <p align="center">
   <img src="images/hw-assembly.jpg" width="400"><br>
+  <img src="images/camera.jpg" width="400">
 </p>
+
 
 
 ## Demo
