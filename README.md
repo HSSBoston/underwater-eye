@@ -2,9 +2,9 @@
   <img src="images/logo.jpg" width="700">
 </p>
 
-This project builds an Internet-of-Things (IoT) device, called Underwater Eye, to operate an underwater camera and observe aquatic animals.
+This project develops an Internet-of-Things (IoT) device, called Underwater Eye, to operate an underwater camera and observe aquatic animals at an extremely close range. 
 
-Glow in the Dark Skateboard is a "smart" skateboard that has an electroluminescent (EL) wire and LED lights. The lighting pattern changes based on the skateboard's orientation - level, upward, or downward. This is implemented with Python code that continuously runs on a Raspberry Pi to calculate the pitch of the skateboard with an accelerometer. 
+Underwater Eye is built with a Raspberry Pi, TT motor, motor driver, camera and waterproof camera case. It runs Python code that drops down a camera slowly to a tank, takes pictures and videos in the tank, pulls up the camera, and uploads the pictures/videos to a cloud database called Kintone. 
 
 This project was submitted to and presented at [AnimalHack 2024](https://animalhack.org/ah24/). 
 
