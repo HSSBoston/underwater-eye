@@ -19,6 +19,8 @@ This project was submitted to and presented at [AnimalHack 2024](https://animalh
 
 https://github.com/user-attachments/assets/8e6842ac-5c74-42ac-a68b-4f3a1c873b40
 
+https://github.com/user-attachments/assets/a569e2c1-d1fc-4919-9e4c-5f10208e7695
+
 https://github.com/user-attachments/assets/c1814a57-3800-44af-96e4-d00cbc174fe5
 
 https://github.com/user-attachments/assets/212d5b15-253d-408c-82de-aec83115785c
