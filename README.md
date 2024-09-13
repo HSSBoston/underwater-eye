@@ -4,7 +4,7 @@
 
 This project develops an Internet-of-Things (IoT) device, called Underwater Eye, to operate an underwater camera and observe aquatic animals at an extremely close range. 
 
-Underwater Eye is built with a Raspberry Pi, TT motor (DC motor with a gearbox), motor driver (DRV8833), camera (Raspi official camera module V3) and waterproof camera case (Entaniya's IP67-rated WC-01). It runs Python code that drops down a camera from the surface to a tank/aquarium, takes pictures and videos in the tank/aquarium, pulls up the camera, and uploads the pictures and videos to a cloud database called Kintone. The pictures and videos can be shared/distributed with the Kintone smartphone/tablet app and Web browsers.Underwater Eye provides the user Terminal-based character commands and Siri-based voice commands to control the camera. 
+Underwater Eye is built with a Raspberry Pi, TT motor (DC motor with a gearbox), motor driver (DRV8833), camera (Raspi official camera module V3) and waterproof camera case (Entaniya's IP67-rated WC-01). It runs Python code that drops down a camera from the surface to a tank/aquarium, takes pictures and videos in the tank/aquarium, pulls up the camera, and uploads the pictures and videos to a cloud database called Kintone. The pictures and videos can be shared/distributed with the Kintone smartphone/tablet app and Web browsers. Underwater Eye provides the user Terminal-based character commands and Siri-based voice commands to control the camera. 
 
 This project was submitted to and [presented](https://docs.google.com/presentation/d/1KNhN7ShHcGSk7iFHiuPwgqconxKm5Qjb4S5TJCN5uVg/edit?usp=sharing) at [AnimalHack 2024](https://animalhack.org/ah24/). It won a [3rd place award](https://animalhack2024.devpost.com/project-gallery). 
 
