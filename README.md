@@ -8,6 +8,10 @@ Underwater Eye is built with a Raspberry Pi, TT motor (DC motor with a gearbox),
 
 This project was submitted to and [presented](https://docs.google.com/presentation/d/1KNhN7ShHcGSk7iFHiuPwgqconxKm5Qjb4S5TJCN5uVg/edit?usp=sharing) at [AnimalHack 2024](https://animalhack.org/ah24/). It won a [3rd place award](https://animalhack2024.devpost.com/project-gallery). 
 
+### Publications:
+
+Hanna Suzuki, "Underwater Eye: An IoT Camera to Observe Underwater Creatures," In B. Ouchi and Y. Karube (eds.), [*Advancing Sustainable Human-Animal Relationships: Tales from AnimalHack 2024*](https://www.amazon.com/dp/B0FDFYMGQ9), Chapter 7, pp. 69 - 84, Binnovative, ISBN: 979-8-3031-7918-9, June 2025.
+
 <p align="center">
   <img src="images/hw-assembly.jpg" width="400"><br>
   <img src="images/camera.jpg" width="400">
