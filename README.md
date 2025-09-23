@@ -10,7 +10,7 @@ This project was submitted to and [presented](https://docs.google.com/presentati
 
 ### Publications:
 
-Hanna Suzuki, "Underwater Eye: An IoT Camera to Observe Underwater Creatures," In B. Ouchi and Y. Karube (eds.), [*Advancing Sustainable Human-Animal Relationships: Tales from AnimalHack 2024*](https://www.amazon.com/dp/B0FDFYMGQ9), Chapter 7, pp. 69 - 84, Binnovative, ISBN: 979-8-3031-7918-9, June 2025.
+Hanna Suzuki, "Underwater Eye: An IoT Camera to Observe Underwater Creatures," In B. Ouchi and Y. Karube (eds.), [*Advancing Sustainable Human-Animal Relationships: Tales from AnimalHack 2024*](https://www.amazon.com/dp/B0FDFYMGQ9), Chapter 7, pp. 69 - 84, Binnovative Innovation Book Series, Binnovative, ISBN: 979-8-3031-7918-9, June 2025. [preprint](https://github.com/HSSBoston/underwater-eye/blob/main/doc/underwater-eye-book-chapter.pdf)
 
 <p align="center">
   <img src="images/hw-assembly.jpg" width="400"><br>
